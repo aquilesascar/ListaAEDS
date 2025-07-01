@@ -107,4 +107,4 @@ Este projeto está sob a licença MIT.
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/aquilesascar)
